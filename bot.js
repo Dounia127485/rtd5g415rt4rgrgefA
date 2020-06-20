@@ -6,4 +6,4 @@ client.on('ready', () => {
     console.log("connected as " + client.user.tag)
 })
 
-client.login("التوكن");
+client.login("NzIzNjY1OTUxMTY1MjUxNjk0.Xu3lCw.CtZ71gHKPYRV0nrJphx_tWnA4v0");
